@@ -22,12 +22,12 @@
 
 
 ### &#x1F60E; Not recommended for use (참고용)
-- [(*Proposed Method)](https://github.com/ssoojeong/Webtoon_InST.git): InST 모델 베이스 제안 방법
-- [*InST](https://github.com/zyxElsa/InST.git): (CVPR 2023) "Inversion-Based Style Transfer with Diffusion Models"
-- [*ProSpect](https://github.com/zyxElsa/ProSpect.git): (SIGGRAPH Asia 2023) "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models"
-- [*VCT](https://github.com/CrystalNeuro/visual-concept-translator.git): (ICCV 2023) "General Image-to-Image Translation with One-Shot Image Guidance"
-- [*DreamStyler](https://github.com/webtoon/dreamstyler.git): (AAAI 2024) "DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models"
-- [*ArtBank](https://github.com/Jamie-Cheung/ArtBank.git): (AAAI 2024) "ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank"
+- [(**Proposed Method)](https://github.com/ssoojeong/Webtoon_InST.git): InST 모델 베이스 제안 방법
+- [**InST](https://github.com/zyxElsa/InST.git): (CVPR 2023) "Inversion-Based Style Transfer with Diffusion Models"
+- [**ProSpect](https://github.com/zyxElsa/ProSpect.git): (SIGGRAPH Asia 2023) "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models"
+- [**VCT](https://github.com/CrystalNeuro/visual-concept-translator.git): (ICCV 2023) "General Image-to-Image Translation with One-Shot Image Guidance"
+- [**DreamStyler](https://github.com/webtoon/dreamstyler.git): (AAAI 2024) "DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models"
+- [**ArtBank](https://github.com/Jamie-Cheung/ArtBank.git): (AAAI 2024) "ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank"
 
     ##### <span style="color:dodgerblue;">\*</span><span style="color:gray;">: _(style 1개) 인퍼런스 테스트 완료_</span>
 
